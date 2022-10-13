@@ -1,0 +1,149 @@
+body{
+  margin:0;
+}
+.homeBack{
+  margin:0;
+height:713px;
+width:1515px;
+}
+.emoji{
+  position:absolute;
+  left:70px;
+  top:36px;
+
+}
+.top{
+
+  color: white;
+  width:900px;
+  height: 100px;
+  position: absolute;
+  top:20px;
+  left:550px;
+  backdrop-filter:blur(10px);
+
+
+
+}
+a{
+  color:white;
+  text-decoration: none;
+}
+a:after{
+  background-color:#ff3c78 ;
+  bottom:-10px;
+}
+a:hover:after{
+  width:100%;
+}
+a:hover{
+  color:#ff3c78;
+}
+hr{
+
+  height:0;
+  width: 30%;
+  border-color:grey;
+  position: absolute;
+  left:10%;
+  top:65px;
+}
+span{
+  padding-left : 30px;
+  padding-right: 30px;
+  position: relative;
+  left: 60px;
+  top:45px;
+
+}
+.pick{
+  margin:0;
+  font-family:"barlow condensed" ;
+  font-size: 30px;
+}
+.pick2{
+  color:#fff;
+  position: absolute;
+  top:160px;
+  left:170px;
+  padding-left: 40px;
+}
+.pick1{
+  color:grey;
+  position: absolute;
+  top:160px;
+  left:140px;
+}
+.moonImg{
+  height:400px;
+  width:400px;
+  position: absolute;
+  top: 250px;
+  left:210px;
+}
+.spanMoon{
+  padding-right: 10px;
+}
+.spanMars{
+  padding-right: 10px;
+}
+.spanEuropa{
+  padding-right: 10px;
+}
+.topbar{
+
+  color:#fff;
+  font-family: "barlow condensed";
+  font-size: 20px;
+  position: absolute;
+  top:200px;
+  left: 700px;
+}
+.bigMoon{
+  font-family: "bellefair";
+  color:#fff;
+  position: absolute;
+  top:300px;
+  left:796px;
+  font-size: 100px;
+
+
+}
+.moonText{
+  font-family: "barlow";
+  line-height: 2;
+  width:400px;
+  color:#fff;
+  padding-top: 30px;
+  position: absolute;
+  top: 400px;
+  left:800px;
+}
+.bottomLine{
+  border-color:grey;
+  width:400px;
+  position:absolute;
+  top:600px;
+  left:800px;
+
+}
+.distance{
+
+  color:#fff;
+  font-family:"barlow";
+  padding-right:30px;
+  position: absolute;
+  top:580px;
+  left:720px;
+}
+.num{
+  color:#fff;
+  font-size: 20px;
+  font-family: "bellefair";
+  position: absolute;
+  top:610px;
+  left:720px;
+}
+.dis{
+  padding-right: 35px;
+}

@@ -1,0 +1,120 @@
+body{
+  margin:0;
+}
+.homeBack{
+  margin:0;
+height:713px;
+width:1515px;
+}
+.emoji{
+  position:absolute;
+  left:70px;
+  top:36px;
+
+}
+.top{
+
+  color: white;
+  width:900px;
+  height: 100px;
+  position: absolute;
+  top:20px;
+  left:550px;
+  backdrop-filter:blur(10px);
+
+
+
+}
+a{
+  color:white;
+  text-decoration: none;
+}
+a:hover{
+  color:#ff3c78;
+}
+hr{
+
+  height:0;
+  width: 30%;
+  border-color:grey;
+  position: absolute;
+  left:10%;
+  top:65px;
+}
+span{
+  padding-left : 30px;
+  padding-right: 30px;
+  position: relative;
+  left: 60px;
+  top:45px;
+
+}
+.pick{
+  margin:0;
+  font-family:"barlow condensed" ;
+  font-size: 30px;
+}
+.pick2{
+  color:#fff;
+  position: absolute;
+  top:160px;
+  left:170px;
+  padding-left: 40px;
+}
+.pick1{
+  color:grey;
+  position: absolute;
+  top:160px;
+  left:140px;
+}
+.crewImg{
+  height:580px;
+  position: absolute;
+  top:130px;
+  left:800px;
+}
+.commander{
+  font-family: "bellefair";
+  color:grey;
+  position: absolute;
+  left:170px;
+  top:320px;
+  font-size: 25px;
+}
+.topName{
+  color:#ffffff;
+  font-family: "bellefair";
+  font-size: 40px;
+  position: absolute;
+  top: 365px;
+  left:170px;
+}
+.paraMain{
+  color:#fff;
+  font-family: "barlow";
+  position: absolute;
+  top:420px;
+  left: 170px;
+  width:350px;
+}
+.fa-solid{
+  color:grey;
+  position: absolute;
+  top: 620px;
+  left: 170px;
+}
+.circle2{
+ position:absolute;
+ left: 205px;
+}
+.circle3{
+ position:absolute;
+ left: 240px;
+}
+.circle4{
+ position:absolute;
+ left: 275px;
+}
+.fa-solid:hover{
+color:#fff;
+}

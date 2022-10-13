@@ -1,0 +1,141 @@
+body{
+  margin:0;
+}
+.homeBack{
+  margin:0;
+height:713px;
+width:1515px;
+}
+.emoji{
+  position:absolute;
+  left:70px;
+  top:36px;
+
+}
+.top{
+
+  color: white;
+  width:900px;
+  height: 100px;
+  position: absolute;
+  top:20px;
+  left:550px;
+  backdrop-filter:blur(10px);
+
+
+
+}
+.ahome{
+  color:white;
+  text-decoration: none;
+}
+.ahome:hover{
+  color:#ff3c78;
+}
+hr{
+
+  height:0;
+  width: 30%;
+  border-color:grey;
+  position: absolute;
+  left:10%;
+  top:65px;
+}
+span{
+  padding-left : 30px;
+  padding-right: 30px;
+  position: relative;
+  left: 60px;
+  top:45px;
+
+}
+.pick{
+  margin:0;
+  font-family:"barlow condensed" ;
+  font-size: 30px;
+}
+.pick2{
+  color:#fff;
+
+  position: absolute;
+  top:160px;
+  left:170px;
+  padding-left: 40px;
+
+}
+.pick1{
+  color:grey;
+  position: absolute;
+  top:160px;
+  left:140px;
+}
+.vehicleImg{
+  position: absolute;
+  top:150px;
+  left: 1000px;
+}
+.fa-solid{
+  color:#fff;
+  position: absolute;
+  top: 300px;
+  left: 180px;
+}
+.insideTxt{
+font-size: 30px;
+  position: absolute;
+  top: 315px;
+  left: 205px;
+}
+.fa-regular{
+  color:#fff;
+  position: absolute;
+  top: 400px;
+  left: 180px;
+}
+.insideTxt2{
+  color:#fff;
+  font-size: 30px;
+  position: absolute;
+  top: 415px;
+  left: 205px;
+}
+.regularCircle3{
+  color:#fff;
+  position: absolute;
+  top: 500px;
+  left: 180px;
+}
+.insideTxt3{
+  color:#fff;
+  font-size: 30px;
+  position: absolute;
+  top: 515px;
+  left: 205px;
+}
+.text1{
+  color: #fff;
+  font-family: "barlow condensed";
+  position: absolute;
+  top: 310px;
+  left: 300px;
+}
+.text2{
+  color: #fff;
+  font-family: "bellefair";
+  font-size: 40px;
+  position: absolute;
+  top: 350px;
+  left: 300px;
+}
+.text3{
+  color: #fff;
+  font-family: "barlow";
+  width: 320px;
+  padding-top: 20px;
+  position: absolute;
+  top: 400px;
+  left: 300px;
+}
+.anchorCircle:hover{
+  color:#5F9DF7;
+}
